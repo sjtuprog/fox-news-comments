@@ -12,3 +12,5 @@ The fox-news-comments.json is the integration of those comments. It is uploaded 
 
 In the fox-news-comments.json, element "text" is the raw text of comment itself. "title" is the title of news article. "meta"
 is the meta description of that news article. "prev" is the previous comment. "succ" is the successor comment. 
+
+Contact sjtuprog@tamu.edu for more information.
