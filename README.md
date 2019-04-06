@@ -12,4 +12,8 @@ is the meta description of that news article. "prev" is the previous comment. "s
 See paper:
 https://arxiv.org/pdf/1710.07395.pdf
 
+This paper was also published in RANLP 2017.
+
+The dataset is under MIT License.
+
 You may contact sjtuprog@tamu.edu for more information.
